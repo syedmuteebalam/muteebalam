@@ -4,17 +4,21 @@ title = "Things learned Oct 30"
 +++
 
 cd - command is used to change directory
+
 ls - command is used to list directory
+
 hugo server - command is used to start the hugo website
 
 # examples
 
 cd ~/projects/muteebalam
+
 ls ~/projects/muteebalam
 
 # to start hugo
 
 cd ~/projects/muteebalam
+
 hugo server
 
 # switch between programs
