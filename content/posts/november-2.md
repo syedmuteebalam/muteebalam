@@ -1,6 +1,6 @@
 +++
-date = "2019-11-1"
-title = "Things learned on Nov 2 "
+date = "2019-11-02"
+title = "Things learned on Nov 2"
 +++
 
 # python programming
@@ -40,7 +40,7 @@ def function_name(argument, list):
     function body
 
 def c2f(c):
-    return 9.0/5.0 * c + 32
+     return 9.0/5.0 * c + 32
 
 
 
@@ -67,3 +67,5 @@ Make file called november-2.py in
 - use each of these functions and print result to screen
 - test all of these functions
 
+
+https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop
