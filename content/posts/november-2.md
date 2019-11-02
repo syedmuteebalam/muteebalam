@@ -26,6 +26,9 @@ python3 file_name.py
     - enclosed in []
     - use append function to add values
     - use pop function to remove value at ith position
+    - example: fruit = ['banana']
+    - len(fruit) 
+    - append example: fruit.append('ornage') adds orange to fruit list.
 
 - tuple (immutable)
     - enclosed in ()
