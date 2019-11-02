@@ -36,12 +36,13 @@ python3 file_name.py
 
 They take some arguments/variables in, and return an output. Arguments are separated by commas. Any name is valid.
 
+```
 def function_name(argument, list):
     function body
 
 def c2f(c):
      return 9.0/5.0 * c + 32
-
+```
 
 
 example:
