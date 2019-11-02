@@ -9,14 +9,17 @@ print(add('foo', 'bar'))
 
 
 def c2f(c):
-    return 9.0/5.0 * c + 32
+    f = 9.0/5.0 * c + 32
+
+    return f
 
 #  this is a comment
 print(c2f(12))
 
 
 def f2c(f):
-    return 5.0/9.0 * (f - 32) 
+    c =  5.0/9.0 * (f - 32)
+    return c
 
 
 print(f2c(25))
@@ -26,7 +29,8 @@ print(f2c(25))
 
 
 def c2k(c):
-    return c + 273.15 
+    k =  c + 273.15 
+    return k
 
 
 print(c2k(25))
@@ -35,7 +39,8 @@ print(c2k(25))
 
 
 def m2f(m):
-    return m * 3.281
+    f = m * 3.281
+    return f
 
 
 print(m2f(1)) 
@@ -43,7 +48,8 @@ print(m2f(1))
 
 
 def f2m(f):
-    return f / 3.281
+    m = f / 3.281
+    return m
 
 
 print(f2m(1))
